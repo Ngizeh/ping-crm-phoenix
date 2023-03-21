@@ -5,7 +5,7 @@ This is SPA build with Phoenix and Vue using Inertiajs Adaptors brigding the jab
 Preview of the Finished App
 
 
-![](/priv/static/images/Ping · Phoenix Framework · Vue 3.png)
+![](/priv/static/images/preview.png)
 
 
 To start your Phoenix server:
