@@ -1,0 +1,28 @@
+{
+  "scripts": {
+    "dev": "yarn run development",
+    "development": "mix",
+    "watch": "mix watch",
+    "deploy": "mix --production"
+  },
+  "devDependencies": {
+    "uuid": "^8.3.2",
+    "vue": "^3.2.27",
+    "vue-loader": "^16.2.0",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "dependencies": {
+    "@babel/plugin-syntax-dynamic-import": "^7.8.3",
+    "@inertiajs/inertia": "^0.11.0",
+    "@inertiajs/inertia-vue3": "^0.6.0",
+    "@inertiajs/progress": "^0.2.7",
+    "@popperjs/core": "^2.11.0",
+    "axios": "^0.27.2",
+    "laravel-mix": "^6.0.6",
+    "phoenix": "file:../deps/phoenix",
+    "phoenix_html": "file:../deps/phoenix_html",
+    "phoenix_live_view": "file:../deps/phoenix_live_view",
+    "resolve-url-loader": "^5.0.0",
+    "webpack": "^5.72.1"
+  }
+}
