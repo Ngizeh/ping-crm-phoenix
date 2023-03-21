@@ -7,6 +7,9 @@ Preview of the Finished App
 
 ![](/priv/static/images/preview.png)
 
+Organizations Preview
+
+![](/priv/static/images/organizations.png)
 
 To start your Phoenix server:
 
