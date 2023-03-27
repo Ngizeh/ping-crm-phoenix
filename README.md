@@ -1,5 +1,5 @@
 # VuePhoenix
-This is SPA build with Phoenix and Vue using Inertiajs Adaptors brigding the jab between Phoenix and Vuejs as SPA. Live link
+This is SPA build with Phoenix and Vue using Inertiajs Adaptors brigding the jab between Phoenix and Vuejs as SPA.
 
 
 Preview of the Finished App
